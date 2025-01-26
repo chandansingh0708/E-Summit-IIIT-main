@@ -1732,6 +1732,9 @@ ul{
     border-radius: 5px;
     background-color: #622F92;
 }
+.event-section h2 {
+    text-align: center;
+}
 
 .day {
     display: flex;
@@ -1811,6 +1814,7 @@ ul{
         align-items: center;
         gap: 0.5vw; /* Adjust the gap as needed */
         width: 100%;
+        text-align: center;
     }
 
     .event-content h2 {
